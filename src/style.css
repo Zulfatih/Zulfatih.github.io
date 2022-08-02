@@ -1,0 +1,49 @@
+*{
+    font-family: 'Poppins', 'Roboto', 'sans serif';
+    color: white;
+}
+
+section{
+    padding-top: 5rem;
+}
+
+.jumbotron{
+    padding-top: 8rem;
+    background-color: #2e3440;
+}
+
+#projects{
+    background-color:#3b4252 ;
+}
+
+#projects .card{
+    background-color: #2e3440;
+}
+
+#about{
+    background-color:#3b4252 ;
+}
+
+
+#certifications{
+    background-color: #2e3440;
+}
+
+#contact{
+    background-color: #2e3440;
+}
+
+
+.btn-circle {
+    width: 50px;
+    height: 50px;
+    padding: 6px 6px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+}
+
+.carousel-indicators{
+    bottom: -50px;
+}
